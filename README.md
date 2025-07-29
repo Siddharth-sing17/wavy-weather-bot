@@ -17,8 +17,8 @@ Wavy is a desktop weather assistant that responds to your voice or keyboard inpu
 ---
 
 ## 📸 Demo
+https://www.linkedin.com/posts/siddharth-singh-878830338_python-weatherapp-voiceassistant-activity-7355930015768702976-NLYt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTXF9wBgsooMQU5AoHgUN97H9EIjG504yM
 
-[Insert your LinkedIn demo link or a YouTube short]
 
 ---
 
